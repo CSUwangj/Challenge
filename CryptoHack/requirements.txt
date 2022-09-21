@@ -1,2 +1,4 @@
 pycryptodome
 pwntools
+gmpy2
+cryptography
